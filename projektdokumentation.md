@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-✍️ Ihr Nachname
+Reho
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,7 +14,7 @@
 
 # 0 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Mein Projekt ist eine Webapplikation bei der man ein Quiz durchspielen kann
 
 # 1 Analyse
 
@@ -27,7 +27,7 @@
 
 # 2 Technologie
 
-✍️ Beschreiben Sie für dieselben Tiers, welche Programmiersprache bzw. Technologie Sie verwenden möchten.
+Ich denke ich werde diese Applikation mit JSF realisieren.
 
 # 3 Datenbank
 
@@ -39,10 +39,12 @@
 
 ✍️ Formulieren Sie weitere, eigene Anforderungen und Testfälle, wie Sie Ihre Applikation erweitern möchten. Geben Sie diesen statt einer Nummer einen Buchstaben (`A`, `B`, etc.)
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                                                                                                         |
+| ---- | --------------- | ---- | ---------------------------------------------------------------------------------------------------------------------|
+| 1    |                 |      | Als ein Administator möchte ich mich durch Passwort und Benutzername authentifizieren, damit ich mich einloggen kann.|
+| 2    |                 |      | Als ein Administrator möchte ich Phrasen und Rätselwörter anlegen, ändern und löschen können, damit es genug Rätselwörter gibt und dass es keine Fehler gibt.|
+| 3    |                 |      | Als ein Administrator möchte ich Kategorien anlegen und zuteilen können, damit alles übersichtlich eingeteilt ist.|
+| 4    |                 |      | Als ein Administrator möchte ich einzelne Einträge der Highscore-Liste löschen, damit falsche Einträge entfernt werden können|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
