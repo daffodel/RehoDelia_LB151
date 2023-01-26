@@ -45,6 +45,9 @@ Ich denke ich werde diese Applikation mit JSF realisieren.
 | 2    |                 |      | Als ein Administrator möchte ich Phrasen und Rätselwörter anlegen, ändern und löschen können, damit es genug Rätselwörter gibt und dass es keine Fehler gibt.|
 | 3    |                 |      | Als ein Administrator möchte ich Kategorien anlegen und zuteilen können, damit alles übersichtlich eingeteilt ist.|
 | 4    |                 |      | Als ein Administrator möchte ich einzelne Einträge der Highscore-Liste löschen, damit falsche Einträge entfernt werden können|
+| 5    |                 |      | Als ein Kandidat möchte ich meinen Namen eingeben könne, damit er auf der Highscore Liste erscheinen kann.|
+| 6    |                 |      | Als Kandidat möchte ich zu jeder Zeit meinen Kontostand sehen, damit ich weiss wie viel Geld ich übrig habe|
+| 7    |                 |      | Als ein Kandidat möchte ich zu jeder Zeit die Lebenspunkte sehen können, damit ich weiss wie viele Versuche ich übrig habe|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
