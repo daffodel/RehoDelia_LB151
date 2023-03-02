@@ -59,25 +59,19 @@ Ich benutze MySQL für meine Datenbank und benutze JDBC als Schnittstelle.
 | 7.1  | Webbrowser ist geöffnet | 1. "Mark" eingeben <br> 2. "F" raten | 3. Lebenspunkt wird entfernt |
 
 
-
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 # 5 Prototyp
 
-✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
 
-Admin Interface:
+## Admin Interface:
 ![adminview](https://user-images.githubusercontent.com/107002802/222438123-31632b6d-7624-4b04-88ed-fcbc4f6c1402.png)
 
-Quiz-Seite:
+## Quiz-Seite:
 ![gameview](https://user-images.githubusercontent.com/107002802/222443000-026c448e-a86f-4b04-81f3-6023c26b8ee0.png)
 
 
 
 # 6 Implementation
 
-✍️ Halten Sie fest, wann Sie welche User Story bearbeitet haben
 
 | User Story | Datum | Beschreibung                             |
 | ---------- | ----- | -----------------------------------------|
