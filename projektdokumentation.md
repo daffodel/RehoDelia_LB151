@@ -17,16 +17,17 @@ Mein Projekt ist eine Webapplikation zu programmieren, bei der man ein Quiz durc
 
 # 1 Analyse
 
-✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
-
-* Tier 1 (Presentation): ...
-* Tier 2 (Webserver):
-* Tier 3 (Application Server):
-* Tier 4 (Dataserver):
+* Tier 1 (Presentation): Startseite mit Eingabe für den Namen der Spieler, Admin-Login, Spiel Seite, Highscore Liste, Hinzüfugen einer Wörter oder Phrase Liste, Bearbeiten einer Wörter oder Phrase Liste
+* Tier 2 (Webserver): Anzeige und Steuerung des GUIs
+* Tier 3 (Application Server): liest Inhalt aus der Datenbank aus, schreibt Daten in die Datenbank, beinhaltet die Logik des Projekts
+* Tier 4 (Dataserver):Speichert die Login-Daten, den Namen des Spielers und die Highscore-Daten, beinhaltet eine Liste von W
 
 # 2 Technologie
 
-Ich werde mein Projekt mit JSF, Java, PrimeFaces, MySQL, GlassFish und JDBC realisieren.
+* Tier 1 (Presentation): JSF, PrimeFaces, CSS
+* Tier 2 (Webserver): JSF, GlassFish
+* Tier 3 (Application Server): Java
+* Tier 4 (Dataserver): MySQL, JDBC
 
 # 3 Datenbank
 
