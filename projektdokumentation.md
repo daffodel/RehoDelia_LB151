@@ -51,7 +51,8 @@ Ich benutze MySQL für meine Datenbank und benutze JDBC als Schnittstelle.
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
+| 1.1  | Webbrowser ist geöffnet            | 1. Benutzername eingeben        |                   |
+|      |              | 2. Passwort eingeben
 | ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
