@@ -45,15 +45,21 @@ Ich benutze MySQL für meine Datenbank und benutze JDBC als Schnittstelle.
 | 6    | Muss            | Funktionalität | Als Kandidat möchte ich zu jeder Zeit meinen Kontostand sehen, damit ich weiss wie viel Geld ich übrig habe|
 | 7    | Muss            | Funktionalität | Als ein Kandidat möchte ich zu jeder Zeit die Lebenspunkte sehen können, damit ich weiss wie viele Versuche ich übrig habe|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
 # 4.2 Testfälle
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Webbrowser ist geöffnet            | 1. Benutzername eingeben <br> 2. Passwort eingeben | 3. Admin-Ansicht öffnet sich |
-|      |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Webbrowser ist geöffnet | 1. Benutzername eingeben <br> 2. Passwort eingeben | 3. Admin-Ansicht öffnet sich |
+| 2.1  | Admin-Ansicht ist geöffnet | 1. "+ wordlist" drücken <br> 2. "Add wordlist" wird gedrückt| 3. Ansicht, bei der man eine neue Wörterliste erstellen kann, wird geöffnet|
+| 3.1  | Admin-Ansicht ist geöffnet | 1. "+ wordlist" drücken <br> 2. "Add wordlist" wird gedrückt <br> 3. Kategoriename einfügen | 3. Kategorie wird zur Wörterliste hinzugefügt                     |
+| 4.1  | Admin-Ansicht ist geöffnet | 1. "highscores" drücken <br> 2. "edit" drücken 3. "delete entry" bei Max's Eintrag drücken | 4. Max sein Eintrag wird gelöscht |
+| 5.1  | Webbrowser ist geöffnet | 1. "Georg" eingeben 2. "Submit" drücken 3. Spiel durchspielen 4. "highscores" drücken | 5. Georg wird in der Highscore Liste angezeigt |
+| 6.1  | Webbrowser ist geöffnet | 1. "Alex" eingeben 2. Vokal kaufen | 3. 100 Coins werden weggenommen |
+| 7.1  | Webbrowser ist geöffnet | 1. "Mark" eingeben 2. "F" raten | 3. Lebenspunkt wird entfernt |
+
+
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
