@@ -13,7 +13,7 @@ Reho
 
 # 0 Ihr Projekt
 
-Mein Projekt ist eine Webapplikation zu programmieren, bei der man ein Quiz durchspielen kann.
+Mein Projekt ist eine Webapplikation zu programmieren, bei der man ein Quiz wie die Serie "Glücksrad" durchspielen kann.
 
 # 1 Analyse
 
