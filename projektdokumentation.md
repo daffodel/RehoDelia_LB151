@@ -10,7 +10,6 @@ Reho
 | 28.02 | 0.0.4   | Startpage mit Namenseingabe, versucht Spiel aufzusetzen      |
 | 01.03 | 0.0.4   | Versucht das Spiel zu programmieren, wieder die selben Fehler|
 | 02.03 | 0.0.4   | Versucht Fehler zu beheben                                   |
-| ----- | ------- | ------------------------------------------------------------ |
 
 # 0 Ihr Projekt
 
@@ -78,7 +77,7 @@ Quiz-Seite:
 | 5          | 28.02 |  Wird nicht in die Datenbank eingetragen |
 | 6          | 01.03 |  Versucht, jedoch gescheitert            |
 | 7          | 01.03 |  Versucht, jedoch gescheitert            |
-| ---------- | ----- | -----------------------------------------|
+
 
 # 7 Projektdokumentation
 
@@ -91,7 +90,7 @@ Quiz-Seite:
 | 5    | ja        | index.html                                |
 | 6    | nein      |                                           |
 | 7    | nein      |                                           |
-| ---- | --------- | ----------------------------------------- |
+
 
 # 8 Testprotokoll
 
