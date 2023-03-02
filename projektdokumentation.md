@@ -54,9 +54,9 @@ Ich benutze MySQL für meine Datenbank und benutze JDBC als Schnittstelle.
 | 2.1  | Admin-Ansicht ist geöffnet | 1. "+ wordlist" drücken <br> 2. "Add wordlist" wird gedrückt| 3. Ansicht, bei der man eine neue Wörterliste erstellen kann, wird geöffnet|
 | 3.1  | Admin-Ansicht ist geöffnet | 1. "+ wordlist" drücken <br> 2. "Add wordlist" wird gedrückt <br> 3. Kategoriename einfügen | 3. Kategorie wird zur Wörterliste hinzugefügt                     |
 | 4.1  | Admin-Ansicht ist geöffnet | 1. "highscores" drücken <br> 2. "edit" drücken 3. "delete entry" bei Max's Eintrag drücken | 4. Max sein Eintrag wird gelöscht |
-| 5.1  | Webbrowser ist geöffnet | 1. "Georg" eingeben 2. "Submit" drücken 3. Spiel durchspielen 4. "highscores" drücken | 5. Georg wird in der Highscore Liste angezeigt |
-| 6.1  | Webbrowser ist geöffnet | 1. "Alex" eingeben 2. Vokal kaufen | 3. 100 Coins werden weggenommen |
-| 7.1  | Webbrowser ist geöffnet | 1. "Mark" eingeben 2. "F" raten | 3. Lebenspunkt wird entfernt |
+| 5.1  | Webbrowser ist geöffnet | 1. "Georg" eingeben <br> 2. "Submit" drücken <br> 3. Spiel durchspielen <br> 4. "highscores" drücken | 5. Georg wird in der Highscore Liste angezeigt |
+| 6.1  | Webbrowser ist geöffnet | 1. "Alex" eingeben <br> 2. Vokal kaufen | 3. 100 Coins werden weggenommen |
+| 7.1  | Webbrowser ist geöffnet | 1. "Mark" eingeben <br> 2. "F" raten | 3. Lebenspunkt wird entfernt |
 
 
 
