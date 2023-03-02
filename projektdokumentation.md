@@ -76,7 +76,7 @@ Ich benutze MySQL für meine Datenbank und benutze JDBC als Schnittstelle.
 | User Story | Datum | Beschreibung                             |
 | ---------- | ----- | -----------------------------------------|
 | 1          | 17.02 |  Versucht, jedoch gescheitert            |
-| 5          | 28.02 |  Wird nicht in die Datenbank eingetragen |
+| 5          | 28.02 |  Wird nicht in die Datenbank eingetragen und auch nicht in der Highscore Liste angezeigt |
 | 6          | 01.03 |  Versucht, jedoch gescheitert            |
 | 7          | 01.03 |  Versucht, jedoch gescheitert            |
 
@@ -89,28 +89,23 @@ Ich benutze MySQL für meine Datenbank und benutze JDBC als Schnittstelle.
 | 2    | nein      |                                           |
 | 3    | nein      |                                           |
 | 4    | nein      |                                           |
-| 5    | ja        | index.html                                |
+| 5    | nein      |                                           |
 | 6    | nein      |                                           |
 | 7    | nein      |                                           |
 
 
 # 8 Testprotokoll
 
-✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
+[Demo](https://youtu.be/J3Thv9x2oX0)
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 02.03 | NOK      | Reho   |
+| 2.1  | 02.03 | NOK      | Reho   |
+| 3.1  | 02.03 | NOK      | Reho   |
+| 4.1  | 02.03 | NOK      | Reho   |
+| 5.1  | 02.03 | NOK      | Reho   |
+| 6.1  | 02.03 | NOK      | Reho   |
+| 7.1  | 02.03 | NOK      | Reho   |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-# 9 `README.md`
-
-✍️ Beschreiben Sie ausführlich in einer README.md, wie Ihre Applikation gestartet und ausgeführt wird. Legen Sie eine geeignete Möglichkeit (Skript, Export, …) bei, Ihre Datenbank wiederherzustellen.
-
-# 10 Allgemeines
-
-- [ ] Ich habe die Rechtschreibung überprüft
-- [ ] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
-- [ ] Ich habe alle mit ✍️ markierten Teile ersetzt
+Ich bin komplett unzufrieden mit dem Resultat. Keine einzige Anforderung wurde realisiert. 
