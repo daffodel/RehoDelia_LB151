@@ -51,8 +51,7 @@ Ich benutze MySQL für meine Datenbank und benutze JDBC als Schnittstelle.
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Webbrowser ist geöffnet            | 1. Benutzername eingeben
-2. Passwort eingeben | 3. Admin-Ansicht öffnet sich |
+| 1.1  | Webbrowser ist geöffnet            | 1. Benutzername eingeben <br> 2. Passwort eingeben | 3. Admin-Ansicht öffnet sich |
 |      |              |         |                   |
 | ...  |              |         |                   |
 
